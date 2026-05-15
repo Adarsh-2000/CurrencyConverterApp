@@ -1,4 +1,4 @@
-# CurrencyConverterApp 2 💱
+# CurrencyConverterApp 💱
 
 A modern Android Currency Converter application built using **Clean Architecture + MVVM** with **Jetpack Compose**.
 The app provides real-time currency conversion with a clean UI, offline support, and scalable architecture.
